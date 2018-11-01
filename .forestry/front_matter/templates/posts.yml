@@ -8,6 +8,9 @@ fields:
   type: text
   hidden: false
   default: post
+- type: datetime
+  name: label
+  label: label
 pages:
 - _posts/test.md
 - _posts/welcome.md
