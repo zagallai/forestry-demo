@@ -9,4 +9,5 @@ fields:
   hidden: false
   default: post
 pages:
+- _posts/test.md
 - _posts/welcome.md
