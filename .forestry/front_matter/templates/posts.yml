@@ -12,6 +12,7 @@ fields:
 - type: datetime
   name: label
   label: label
+- type: file
 pages:
 - _posts/2018-11-01-test.md
 - _posts/welcome.md
